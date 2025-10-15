@@ -1,0 +1,1068 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "7ff50e69-760a-4d45-ae67-4ede3191d751": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_eB6A3x": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "celulares",
+            "image": "shopify://shop_images/Diseno_sin_titulo_16d42ff8-39f6-492c-a319-38fada19e382.png",
+            "title": "<strong>Celulares</strong>",
+            "url": "shopify://collections/celulares",
+            "showtext": "",
+            "customb_style": "solid"
+          }
+        },
+        "featured_collection_7b4AgC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "auriculares",
+            "image": "shopify://shop_images/Diseno_sin_titulo_3_95d12b99-313e-45f2-858b-992eea900014.png",
+            "title": "<strong>Auriculares</strong>",
+            "url": "",
+            "showtext": "",
+            "customb_style": "solid"
+          }
+        },
+        "featured_collection_NMm3a9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "computadores-portatiles",
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_d60fcdb2-98fa-474f-92d1-da67638293eb.png",
+            "title": "Computadores",
+            "url": "",
+            "showtext": "",
+            "customb_style": "solid"
+          }
+        },
+        "featured_collection_LQcXqc": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "televisores",
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_1_49342f73-16e3-4bdc-b765-b6744d3961b1.png",
+            "title": "Televisores",
+            "url": "",
+            "showtext": "",
+            "customb_style": "solid"
+          }
+        },
+        "featured_collection_ccmBfp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "juegos-de-ollas",
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_2_05bff3f3-8efa-4525-b798-f92bae4bae6e.png",
+            "title": "Juego de Ollas",
+            "url": "",
+            "showtext": "",
+            "customb_style": "solid"
+          }
+        },
+        "featured_collection_W789XD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "planchas-de-cabello",
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_3_eb98b91c-57ed-4234-9f49-82ac3ed7fe2e.png",
+            "title": "Planchas de cabello",
+            "url": "",
+            "showtext": "",
+            "customb_style": "solid"
+          }
+        },
+        "featured_collection_grYgMp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "secadores",
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_4_2f26dc72-655f-4eca-b74a-d9b38dcaa94c.png",
+            "title": "Secadores de cabello",
+            "url": "",
+            "showtext": "",
+            "customb_style": "solid"
+          }
+        },
+        "featured_collection_ANRbJU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vajillas-corona",
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_5_fc3b67b2-b584-4fb1-a738-a0c52b71e60d.png",
+            "title": "Vajillas",
+            "url": "",
+            "showtext": "",
+            "customb_style": "solid"
+          }
+        },
+        "featured_collection_VgDpmg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "maquinas-de-motilar",
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_6_21a96857-4f0c-4318-8d72-e7448d05404a.png",
+            "title": "<strong>Maquinas de corte</strong>",
+            "url": "",
+            "showtext": "",
+            "customb_style": "solid"
+          }
+        },
+        "featured_collection_ga9Pfd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "licuadoras",
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_ea7eba85-4716-4200-92e8-8cfd80c70ca2.png",
+            "title": "<strong>Licuadoras</strong>",
+            "url": "",
+            "showtext": "",
+            "customb_style": "solid"
+          }
+        },
+        "featured_collection_bXUGHD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "video-juegos",
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_1_95a6045a-ed44-4091-b717-324950cc497d.png",
+            "title": "Video juegos",
+            "url": "",
+            "showtext": "",
+            "customb_style": "solid"
+          }
+        },
+        "featured_collection_HR3awE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ventiladores",
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_2_d5bc9da5-0038-4c65-b73c-9064782a73ee.png",
+            "title": "Ventiladores",
+            "url": "",
+            "showtext": "",
+            "customb_style": "solid"
+          }
+        },
+        "featured_collection_prT7k3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "relojes-smart",
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_3_f52c2bd4-1039-4d0f-95f1-cd099deab957.png",
+            "title": "<strong>Relojes smart</strong>",
+            "url": "",
+            "showtext": "",
+            "customb_style": "solid"
+          }
+        },
+        "featured_collection_qyVTTU": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "freidoras-electricas",
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_4_867c1eac-cfa7-4d2f-bd75-72bd13b4ecb4.png",
+            "title": "Freidoras",
+            "url": "",
+            "showtext": "",
+            "customb_style": "solid"
+          }
+        },
+        "featured_collection_CUFQMB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cabinas-de-sonido",
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_4_c7cafc84-ec9a-4d92-a561-00214fecbd2e.png",
+            "title": "<strong>Cabinas de sonido</strong>",
+            "url": "",
+            "showtext": "",
+            "customb_style": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_eB6A3x",
+        "featured_collection_7b4AgC",
+        "featured_collection_NMm3a9",
+        "featured_collection_LQcXqc",
+        "featured_collection_ccmBfp",
+        "featured_collection_W789XD",
+        "featured_collection_grYgMp",
+        "featured_collection_ANRbJU",
+        "featured_collection_VgDpmg",
+        "featured_collection_ga9Pfd",
+        "featured_collection_bXUGHD",
+        "featured_collection_HR3awE",
+        "featured_collection_prT7k3",
+        "featured_collection_qyVTTU",
+        "featured_collection_CUFQMB"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "title": "",
+        "heading_size": "h0",
+        "head_align": "left",
+        "heading_color_scheme": "scheme-abe3bc68-5409-41dd-abcf-8f9ac474947a",
+        "head_space": true,
+        "description": "",
+        "description_style": "body",
+        "view_button_pos": "bottom",
+        "button_label": "Ver todas",
+        "button_url": "",
+        "view_all_style": "solid",
+        "show_view_all": false,
+        "arrow_position": "inline",
+        "image_ratio": "portrait",
+        "columns_desktop": 6,
+        "rows": 1,
+        "card_flex_direction": "column",
+        "design_type": "below",
+        "design_align": "center",
+        "show_circle": false,
+        "catheading_size": "small",
+        "blockcolor_scheme": "background-1",
+        "columns_mobile": "3",
+        "padding_top": 28,
+        "padding_bottom": 4
+      }
+    },
+    "slideshow_yQxg4G": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_UrdQX4": {
+          "type": "slide",
+          "settings": {
+            "enable_video_looping": false,
+            "auto_play_video": false,
+            "video_url": "",
+            "image": "shopify://shop_images/increibles-ofertas_7b34e952-f9d6-40e1-8ea7-d0290f9a0ef7.webp",
+            "image_overlay_opacity": 0,
+            "text_caption": "",
+            "outline_text": false,
+            "heading": "",
+            "heading_size": "h1",
+            "font_color": "",
+            "subheading": "<p> </p><p></p>",
+            "description": "",
+            "text_style": "body",
+            "button_label": "",
+            "link": "",
+            "link_window": false,
+            "view_all_style": "solid",
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_yE6V9C": {
+          "type": "slide",
+          "settings": {
+            "enable_video_looping": true,
+            "auto_play_video": true,
+            "video_url": "",
+            "image": "shopify://shop_images/c84e8185-19c4-4f83-9a8d-44ea022e426d.jpg",
+            "image_overlay_opacity": 0,
+            "text_caption": "",
+            "outline_text": false,
+            "heading": "",
+            "heading_size": "h1",
+            "font_color": "",
+            "subheading": "<p> </p><p></p>",
+            "description": "",
+            "text_style": "body",
+            "button_label": "",
+            "link": "https://j9distrimuebles.com/",
+            "link_window": true,
+            "view_all_style": "solid",
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_4gPUdm": {
+          "type": "slide",
+          "settings": {
+            "enable_video_looping": false,
+            "auto_play_video": false,
+            "video_url": "",
+            "image": "shopify://shop_images/Banners-02.jpg",
+            "image_overlay_opacity": 0,
+            "text_caption": "",
+            "outline_text": false,
+            "heading": "",
+            "heading_size": "h1",
+            "font_color": "",
+            "subheading": "",
+            "description": "",
+            "text_style": "body",
+            "button_label": "",
+            "link": "",
+            "link_window": false,
+            "view_all_style": "solid",
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_UrdQX4",
+        "slide_yE6V9C",
+        "slide_4gPUdm"
+      ],
+      "settings": {
+        "slide_heading_font": "assistant_n4",
+        "default_font": true,
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "pagenation_foreground": "#ffffff",
+        "pagenation_background": "rgba(0,0,0,0)",
+        "pagenet_corner_radius": 10,
+        "slider_alignment": "center",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "accessibility_info": "",
+        "color_scheme": "",
+        "show_srolling_bar": false,
+        "wb_marktext": "",
+        "mark_space": 30,
+        "mark_speed": 2,
+        "marq_diection": "right_left",
+        "seprater": "dots",
+        "text_padding_top": 8,
+        "text_padding_bottom": 8,
+        "show_text_below": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_B9Xn9U": {
+      "type": "featured-collection",
+      "settings": {
+        "color_scheme": "background-1",
+        "collection": "asadores",
+        "title": "<strong>Asadores eléctricos</strong>",
+        "heading_size": "h1",
+        "head_align": "center",
+        "heading_color_scheme": "background-1",
+        "head_space": true,
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "show_row_on_desktop": 1,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "view_button_pos": "bottom",
+        "enable_desktop_slider": false,
+        "arrow_position": "top",
+        "card_style": "standard",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_quantity": false,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "quicklook_style": "solid",
+        "show_count_timer": true,
+        "color_swatchhover": false,
+        "enable_addtocart": true,
+        "show_variants": true,
+        "picker_type": "button",
+        "show_colorswatch": true,
+        "cardstock_bar": true,
+        "stock_inventory": false,
+        "max_stock": 150,
+        "limited_stock_cut_off": 10,
+        "limited_stock_message": "Only {stock_number} units left",
+        "instock_message": "",
+        "continue_selling_message": "",
+        "limited_stock_color": "#ff0000",
+        "in_stock_color": "#008a00",
+        "continue_selling_color": "#ff0000",
+        "banner_position": "left",
+        "box_align": "top",
+        "text_alignment": "center",
+        "show_text_box": false,
+        "imgcolor_scheme": "",
+        "show_banner_timer": false,
+        "wb_bannerdate": "",
+        "text_caption": "Image text",
+        "outline_text": false,
+        "heading": "Heading",
+        "bnrheading_size": "h1",
+        "sub_heading": "Sub Heading",
+        "button_label": "Button label",
+        "button_link": "",
+        "link_window": true,
+        "button_style_secondary": "link",
+        "card_color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "172961791702de1829": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_featured_carousel_kpKT7C": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_featured_carousel_kpKT7C"
+      ],
+      "settings": {
+        "include_margins": true,
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_dmtVcd": {
+      "type": "image-banner",
+      "blocks": {
+        "banner_with_text_WXgqmB": {
+          "type": "banner_with_text",
+          "settings": {
+            "image": "shopify://shop_images/Diseno_sin_titulo_a3547e15-b26a-420e-9b00-998f2c77a9e9.png",
+            "image_overlay_opacity": 0,
+            "banner_width": 33,
+            "text_caption": "",
+            "outline_text": false,
+            "heading": "Cabina Maxlin la mas comprada",
+            "heading_size": "h1",
+            "subheading": "",
+            "text": "<p>Ofertas imperdibles</p>",
+            "text_style": "body",
+            "show_banner_timer": false,
+            "wb_bannerdate": "",
+            "button_label_1": "Conocela aqui",
+            "button_link_1": "shopify://products/cabina-de-sonido-maxlin-15-960-w",
+            "link_window": true,
+            "view_all_style": "solid",
+            "button_label_11": "",
+            "button_link_11": "",
+            "link_window1": true,
+            "view_all_style1": "link",
+            "show_text_box": false,
+            "space_around": 10,
+            "container_overlay_opacity": 40,
+            "desktop_content_position": "middle-center",
+            "desktop_content_alignment": "center",
+            "color_scheme": "inverse",
+            "image_behavior": "ambient"
+          }
+        },
+        "banner_with_text_tBmxi4": {
+          "type": "banner_with_text",
+          "settings": {
+            "image": "shopify://shop_images/Diseno_sin_titulo_1_5f444437-8d33-4931-a0e3-7d8ad2c5fb9b.png",
+            "image_overlay_opacity": 0,
+            "banner_width": 33,
+            "text_caption": "",
+            "outline_text": false,
+            "heading": "Cabinas Maxlin",
+            "heading_size": "h1",
+            "subheading": "<h6>Ofertas de locura en todos los tamaños y modelos</h6>",
+            "text": "",
+            "text_style": "body",
+            "show_banner_timer": false,
+            "wb_bannerdate": "",
+            "button_label_1": "Conócelas Aqui",
+            "button_link_1": "shopify://collections/cabinas-de-sonido",
+            "link_window": true,
+            "view_all_style": "solid",
+            "button_label_11": "",
+            "button_link_11": "",
+            "link_window1": true,
+            "view_all_style1": "link",
+            "show_text_box": false,
+            "space_around": 10,
+            "container_overlay_opacity": 40,
+            "desktop_content_position": "middle-center",
+            "desktop_content_alignment": "center",
+            "color_scheme": "inverse",
+            "image_behavior": "ambient"
+          }
+        },
+        "banner_with_text_giHxrz": {
+          "type": "banner_with_text",
+          "settings": {
+            "image": "shopify://shop_images/Diseno_sin_titulo_2_4d27f034-4f08-4f46-a752-8c761d7bfe2f.png",
+            "image_overlay_opacity": 0,
+            "banner_width": 33,
+            "text_caption": "",
+            "outline_text": false,
+            "heading": "Cabina Maxlin la mas potente",
+            "heading_size": "h1",
+            "subheading": "<p>Oferta especial desde octubre</p>",
+            "text": "",
+            "text_style": "body",
+            "show_banner_timer": false,
+            "wb_bannerdate": "",
+            "button_label_1": "Conócela  Aquí",
+            "button_link_1": "shopify://products/cabina-de-sonido-maxlin-15-pro-1",
+            "link_window": true,
+            "view_all_style": "solid",
+            "button_label_11": "",
+            "button_link_11": "",
+            "link_window1": true,
+            "view_all_style1": "link",
+            "show_text_box": false,
+            "space_around": 10,
+            "container_overlay_opacity": 40,
+            "desktop_content_position": "middle-center",
+            "desktop_content_alignment": "center",
+            "color_scheme": "inverse",
+            "image_behavior": "ambient"
+          }
+        }
+      },
+      "block_order": [
+        "banner_with_text_WXgqmB",
+        "banner_with_text_tBmxi4",
+        "banner_with_text_giHxrz"
+      ],
+      "settings": {
+        "full_width": false,
+        "title": "PARLANTES EN OFERTA",
+        "heading_size": "h2",
+        "head_align": "center",
+        "heading_color_scheme": "",
+        "head_space": false,
+        "description": "",
+        "description_style": "body",
+        "button_label": "",
+        "button_link": "",
+        "view_all_style": "link",
+        "show_view_all": true,
+        "image_height": "adapt",
+        "show_gap": true,
+        "section_color_scheme": "",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "f4fc861e-a8e9-4733-8984-e73213d48588": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16209783881785__f4fc861e-a8e9-4733-8984-e73213d48588-slide-1": {
+          "type": "slide",
+          "settings": {
+            "enable_video_looping": false,
+            "auto_play_video": false,
+            "video_url": "",
+            "image": "shopify://shop_images/Foto_de_Portada_para_Facebook_Abogado_Azul_1_c9945c22-f908-4276-99e2-15667cfcac71.png",
+            "image_overlay_opacity": 50,
+            "text_caption": "",
+            "outline_text": false,
+            "heading": "<strong>¡Descubre!</strong>",
+            "heading_size": "h1",
+            "font_color": "",
+            "subheading": "<h5><strong>Lo ultimo en tecnología</strong></h5>",
+            "description": "",
+            "text_style": "subtitle",
+            "button_label": "CLICK AQUI",
+            "link": "shopify://collections/celulares",
+            "link_window": true,
+            "view_all_style": "solid",
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_VELX9E": {
+          "type": "slide",
+          "settings": {
+            "enable_video_looping": false,
+            "auto_play_video": false,
+            "video_url": "",
+            "image": "shopify://shop_images/Foto_de_Portada_para_Facebook_Abogado_Azul_1_c9945c22-f908-4276-99e2-15667cfcac71.png",
+            "image_overlay_opacity": 50,
+            "text_caption": "",
+            "outline_text": false,
+            "heading": "<strong>¡Descubre!</strong>",
+            "heading_size": "h1",
+            "font_color": "",
+            "subheading": "<h5><strong>Lo ultimo en tecnología</strong></h5>",
+            "description": "",
+            "text_style": "subtitle",
+            "button_label": "CLICK AQUI",
+            "link": "shopify://collections/celulares",
+            "link_window": true,
+            "view_all_style": "solid",
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16209783881785__f4fc861e-a8e9-4733-8984-e73213d48588-slide-1",
+        "slide_VELX9E"
+      ],
+      "settings": {
+        "slide_heading_font": "poppins_n8",
+        "default_font": true,
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "pagenation_foreground": "#000000",
+        "pagenation_background": "rgba(0,0,0,0)",
+        "pagenet_corner_radius": 0,
+        "slider_alignment": "center",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "ambient",
+        "accessibility_info": "",
+        "color_scheme": "",
+        "show_srolling_bar": true,
+        "wb_marktext": "¡<strong>Descubre las últimas ofertas en iPhone</strong> y lleva lo mejor de la tecnología en tus manos!",
+        "mark_space": 40,
+        "mark_speed": 26,
+        "marq_diection": "left_right",
+        "seprater": "dots",
+        "text_padding_top": 1,
+        "text_padding_bottom": 1,
+        "show_text_below": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_D8P9jY": {
+      "type": "featured-collection",
+      "settings": {
+        "color_scheme": "scheme-abe3bc68-5409-41dd-abcf-8f9ac474947a",
+        "collection": "cepillos-de-cabello",
+        "title": "<strong>CEPILLOS DE CABELLO EN OFERTA</strong>",
+        "heading_size": "h2",
+        "head_align": "center",
+        "heading_color_scheme": "background-1",
+        "head_space": false,
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "products_to_show": 9,
+        "columns_desktop": 4,
+        "show_row_on_desktop": 1,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "view_button_pos": "bottom",
+        "enable_desktop_slider": true,
+        "arrow_position": "inline",
+        "card_style": "standard",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_quantity": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "quicklook_style": "solid",
+        "show_count_timer": false,
+        "color_swatchhover": false,
+        "enable_addtocart": true,
+        "show_variants": true,
+        "picker_type": "button",
+        "show_colorswatch": true,
+        "cardstock_bar": true,
+        "stock_inventory": true,
+        "max_stock": 100,
+        "limited_stock_cut_off": 10,
+        "limited_stock_message": "Pocas unidades",
+        "instock_message": "Cantidad",
+        "continue_selling_message": "",
+        "limited_stock_color": "#ff0000",
+        "in_stock_color": "#126fd3",
+        "continue_selling_color": "#0062ee",
+        "banner_position": "left",
+        "box_align": "top",
+        "text_alignment": "center",
+        "show_text_box": false,
+        "imgcolor_scheme": "background-1",
+        "show_banner_timer": false,
+        "wb_bannerdate": "",
+        "text_caption": "",
+        "outline_text": false,
+        "heading": "OFERTAS POR TIEMPO LIMITADO",
+        "bnrheading_size": "h2",
+        "sub_heading": "OFERTAS POR TIEMPO LIMITADO",
+        "button_label": "Oferta",
+        "button_link": "",
+        "link_window": true,
+        "button_style_secondary": "link",
+        "card_color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 32
+      }
+    },
+    "collage_FXfDCd": {
+      "type": "collage",
+      "blocks": {
+        "image_RbBUrW": {
+          "type": "image",
+          "settings": {
+            "enable_video_looping": false,
+            "auto_play_video": false,
+            "video_url": "",
+            "cover_image": "shopify://shop_images/Diseno_sin_titulo_4.png",
+            "image": "shopify://shop_images/Diseno_sin_titulo_6ab1775c-d5c8-4901-98e0-39a0927f08b9.png",
+            "image_overlay_opacity": 0,
+            "subheading": "",
+            "heading": "<strong>Lo mejor en sonido</strong>",
+            "heading_size": "h2",
+            "text": "<p>Descubre equipos de audio de <strong>calidad superior</strong> que ofrecen la mejor tecnología y potencia. ¡Eleva tu experiencia auditiva con marcas líderes en el mercado!</p>",
+            "text_style": "body",
+            "button_label_1": "Click aqui",
+            "button_link_1": "shopify://collections/auriculares",
+            "link_window": true,
+            "view_all_style": "solid",
+            "button_label_11": "Diadema JBL en descuento",
+            "button_link_11": "shopify://products/diademas-bluetooth-jbl-520tb",
+            "link_window1": false,
+            "view_all_style1": "solid",
+            "show_text_box": true,
+            "container_overlay_opacity": 0,
+            "desktop_content_position": "top-center",
+            "desktop_content_alignment": "center",
+            "color_scheme": "inverse",
+            "image_behavior": "none"
+          }
+        },
+        "image_ky7Gt3": {
+          "type": "image",
+          "settings": {
+            "enable_video_looping": false,
+            "auto_play_video": false,
+            "video_url": "",
+            "image": "shopify://shop_images/Foto_de_Portada_para_Facebook_Abogado_Azul_df2ad36c-54a3-46c0-bed4-093c5aec6500.png",
+            "image_overlay_opacity": 0,
+            "subheading": "",
+            "heading": "Celulares",
+            "heading_size": "h2",
+            "text": "<p><strong>Renueva tu estilo</strong> y potencia tu vida con los <strong>modelos más avanzados</strong>. ¡Tu nuevo celular te está esperando!</p>",
+            "text_style": "body",
+            "button_label_1": "Nuevo Iphone 16 Pro",
+            "button_link_1": "shopify://collections/celulares",
+            "link_window": true,
+            "view_all_style": "solid",
+            "button_label_11": "",
+            "button_link_11": "",
+            "link_window1": true,
+            "view_all_style1": "link",
+            "show_text_box": false,
+            "container_overlay_opacity": 40,
+            "desktop_content_position": "middle-left",
+            "desktop_content_alignment": "left",
+            "color_scheme": "inverse",
+            "image_behavior": "none"
+          }
+        },
+        "image_ce33fh": {
+          "type": "image",
+          "settings": {
+            "enable_video_looping": false,
+            "auto_play_video": false,
+            "video_url": "",
+            "image": "shopify://shop_images/Diseno_sin_titulo_05c76ba7-8faf-4f57-a15d-249bfcafddb0.png",
+            "image_overlay_opacity": 0,
+            "subheading": "",
+            "heading": "Hogar",
+            "heading_size": "h2",
+            "text": "<p>Todo en <strong>electrodomésticos, </strong>tenemos todo lo que necesitas para equipar y mejorar tu hogar con productos de <strong>alta calidad y las mejores marcas</strong>.</p>",
+            "text_style": "body",
+            "button_label_1": "Licuadora Oster",
+            "button_link_1": "shopify://products/licuadora-oster-reversible",
+            "link_window": true,
+            "view_all_style": "solid",
+            "button_label_11": "",
+            "button_link_11": "",
+            "link_window1": true,
+            "view_all_style1": "solid",
+            "show_text_box": false,
+            "container_overlay_opacity": 0,
+            "desktop_content_position": "top-left",
+            "desktop_content_alignment": "left",
+            "color_scheme": "inverse",
+            "image_behavior": "none"
+          }
+        },
+        "image_4pRmay": {
+          "type": "image",
+          "settings": {
+            "enable_video_looping": false,
+            "auto_play_video": false,
+            "video_url": "",
+            "image": "shopify://shop_images/Diseno_sin_titulo_1_aeb620dc-7cb4-408d-8186-2a17d176776f.png",
+            "image_overlay_opacity": 0,
+            "subheading": "",
+            "heading": "Belleza",
+            "heading_size": "h2",
+            "text": "<p>Desde <strong>herramientas de cuidado personal hasta productos para el cabello,</strong> ofrecemos lo mejor para resaltar tu belleza natural.</p>",
+            "text_style": "body",
+            "button_label_1": "Planchas de cabello",
+            "button_link_1": "shopify://collections/planchas-de-cabello",
+            "link_window": true,
+            "view_all_style": "solid",
+            "button_label_11": "",
+            "button_link_11": "",
+            "link_window1": true,
+            "view_all_style1": "solid",
+            "show_text_box": false,
+            "container_overlay_opacity": 40,
+            "desktop_content_position": "top-left",
+            "desktop_content_alignment": "left",
+            "color_scheme": "inverse",
+            "image_behavior": "none"
+          }
+        }
+      },
+      "block_order": [
+        "image_RbBUrW",
+        "image_ky7Gt3",
+        "image_ce33fh",
+        "image_4pRmay"
+      ],
+      "settings": {
+        "full_width": true,
+        "title": "",
+        "heading_size": "h0",
+        "head_align": "left",
+        "heading_color_scheme": "",
+        "head_space": true,
+        "description": "",
+        "description_style": "body",
+        "image_height": "small",
+        "image_layout": "alternate-left",
+        "gap_between_image": 6,
+        "section_color_scheme": "",
+        "padding_top": 60,
+        "padding_bottom": 4
+      }
+    },
+    "3f381c47-733a-4027-b7cc-15a524815a39": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--16209783881785__3f381c47-733a-4027-b7cc-15a524815a39-image-1": {
+          "type": "image",
+          "settings": {
+            "icon1": "deal",
+            "title": "Ofertas",
+            "demotext": "Imperdibles"
+          }
+        },
+        "image_WARbey": {
+          "type": "image",
+          "settings": {
+            "icon1": "shipping",
+            "title": "Envios",
+            "demotext": "Hasta tu casa"
+          }
+        },
+        "template--16209783881785__3f381c47-733a-4027-b7cc-15a524815a39-image-2": {
+          "type": "image",
+          "settings": {
+            "icon1": "return policy",
+            "title": "Entregas",
+            "demotext": "Seguras"
+          }
+        },
+        "template--16209783881785__3f381c47-733a-4027-b7cc-15a524815a39-image-3": {
+          "type": "image",
+          "settings": {
+            "icon1": "payment",
+            "title": "Pagos",
+            "demotext": "Múltiples medios"
+          }
+        }
+      },
+      "block_order": [
+        "template--16209783881785__3f381c47-733a-4027-b7cc-15a524815a39-image-1",
+        "image_WARbey",
+        "template--16209783881785__3f381c47-733a-4027-b7cc-15a524815a39-image-2",
+        "template--16209783881785__3f381c47-733a-4027-b7cc-15a524815a39-image-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "head_align": "left",
+        "heading_color_scheme": "background-1",
+        "head_space": true,
+        "iconwidth": 42,
+        "column_alignment": "center",
+        "flex_direction": "column",
+        "text_size": "large",
+        "space_text": 12,
+        "color_scheme": "background-1",
+        "show_seprator": true,
+        "swipe_mobile": false,
+        "margin_top": 60,
+        "margin_bottom": 60,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "logo_bar_aEDqVj": {
+      "type": "logo-bar",
+      "blocks": {
+        "logo_image_XPWdir": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_1.png",
+            "link": "",
+            "logo_title": ""
+          }
+        },
+        "logo_image_rncVYT": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_3.png",
+            "link": "",
+            "logo_title": ""
+          }
+        },
+        "logo_image_DXFR7q": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_2_cf9ff736-f274-44d6-87f7-dca685fa6b11.png",
+            "link": "",
+            "logo_title": ""
+          }
+        },
+        "logo_image_cQxMiK": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_4.png",
+            "link": "",
+            "logo_title": ""
+          }
+        },
+        "logo_image_8Yg4Br": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS.png",
+            "link": "",
+            "logo_title": ""
+          }
+        },
+        "logo_image_MzFANG": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_5.png",
+            "link": "",
+            "logo_title": ""
+          }
+        },
+        "logo_image_U9xVRL": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_6.png",
+            "link": "",
+            "logo_title": ""
+          }
+        },
+        "logo_image_T9Uc88": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_7.png",
+            "link": "",
+            "logo_title": ""
+          }
+        },
+        "logo_image_eCjkXd": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_8.png",
+            "link": "",
+            "logo_title": ""
+          }
+        },
+        "logo_image_pYziyE": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_8bffaf6f-8387-496a-aa30-2482d4f3caef.png",
+            "link": "",
+            "logo_title": ""
+          }
+        },
+        "logo_image_XLCeYx": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_1_7605b926-e422-4c1c-85c7-64c4f2daf288.png",
+            "link": "",
+            "logo_title": ""
+          }
+        },
+        "logo_image_YpFACQ": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify://shop_images/IMAGENES_CATEGORIAS_3_d85cd1b5-2fd0-49af-b891-4e9fa695bd0a.png",
+            "link": "",
+            "logo_title": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_image_XPWdir",
+        "logo_image_rncVYT",
+        "logo_image_DXFR7q",
+        "logo_image_cQxMiK",
+        "logo_image_8Yg4Br",
+        "logo_image_MzFANG",
+        "logo_image_U9xVRL",
+        "logo_image_T9Uc88",
+        "logo_image_eCjkXd",
+        "logo_image_pYziyE",
+        "logo_image_XLCeYx",
+        "logo_image_YpFACQ"
+      ],
+      "settings": {
+        "full_width": true,
+        "heading": "",
+        "heading_size": "h2",
+        "head_align": "left",
+        "heading_color_scheme": "",
+        "head_space": true,
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "columns_desktop": 8,
+        "enable_desktop_slider": true,
+        "show_title": false,
+        "color_scheme": "",
+        "swipe_on_mobile": true,
+        "padding_top": 4,
+        "padding_bottom": 16
+      }
+    }
+  },
+  "order": [
+    "7ff50e69-760a-4d45-ae67-4ede3191d751",
+    "slideshow_yQxg4G",
+    "featured_collection_B9Xn9U",
+    "172961791702de1829",
+    "image_banner_dmtVcd",
+    "f4fc861e-a8e9-4733-8984-e73213d48588",
+    "featured_collection_D8P9jY",
+    "collage_FXfDCd",
+    "3f381c47-733a-4027-b7cc-15a524815a39",
+    "logo_bar_aEDqVj"
+  ]
+}

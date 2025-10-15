@@ -1,0 +1,74 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "def_image": "shopify://shop_images/Foto_de_Portada_para_Facebook_Abogado_Azul_a8a86f2d-cc68-4270-8fc0-f08e15075b62.png",
+        "show_collection_image": true,
+        "show_collection_description": false,
+        "content_alignment": "center",
+        "hero_layout": "overlay",
+        "coll_bgcolor": "#000000",
+        "coll_color": "#ffffff",
+        "coll_overlay": 54,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "default_grid": "four_col",
+        "card_style": "standard",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_quantity": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "quicklook_style": "solid",
+        "show_count_timer": false,
+        "enable_listdesc": true,
+        "color_swatchhover": false,
+        "enable_addtocart": true,
+        "show_variants": true,
+        "picker_type": "button",
+        "show_colorswatch": true,
+        "cardstock_bar": true,
+        "stock_inventory": false,
+        "max_stock": 50,
+        "limited_stock_cut_off": 20,
+        "limited_stock_message": "Pocas unidades",
+        "instock_message": "Unidades disponibles",
+        "continue_selling_message": "",
+        "limited_stock_color": "#ff0000",
+        "in_stock_color": "#008a00",
+        "continue_selling_color": "#ff0000",
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sticky": false,
+        "enable_sorting": true,
+        "enable_fill_category": true,
+        "menu": "main-menu",
+        "pagination_type": "paged",
+        "columns_mobile": "2",
+        "padding_top": 20,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid"
+  ]
+}

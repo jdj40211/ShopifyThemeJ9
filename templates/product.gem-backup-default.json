@@ -1,0 +1,96 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "description_chPmyd": {
+          "type": "description",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "price",
+        "buy_buttons",
+        "description_chPmyd"
+      ],
+      "custom_css": [],
+      "settings": {
+        "enable_sticky_info": false,
+        "media_size": "small",
+        "constrain_to_viewport": false,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": true,
+        "enable_video_looping": true,
+        "mobile_thumbnails": "columns",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "title": "También te puede interesar",
+        "heading_size": "h2",
+        "head_align": "center",
+        "heading_color_scheme": "background-1",
+        "head_space": true,
+        "description": "",
+        "description_style": "body",
+        "products_to_show": 5,
+        "columns_desktop": 4,
+        "show__slider": true,
+        "arrow_position": "inline",
+        "color_scheme": "scheme-abe3bc68-5409-41dd-abcf-8f9ac474947a",
+        "card_style": "card",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "quicklook_style": "link",
+        "show_count_timer": false,
+        "color_swatchhover": false,
+        "enable_addtocart": true,
+        "show_variants": true,
+        "picker_type": "button",
+        "show_colorswatch": true,
+        "cardstock_bar": true,
+        "stock_inventory": false,
+        "max_stock": 150,
+        "limited_stock_cut_off": 10,
+        "limited_stock_message": "Pocas unidades",
+        "instock_message": "",
+        "continue_selling_message": "",
+        "limited_stock_color": "#ff0000",
+        "in_stock_color": "#008a00",
+        "continue_selling_color": "#ff0000",
+        "columns_mobile": "2",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related-products"
+  ]
+}
